@@ -346,6 +346,8 @@ These papers propose alternative neural network approaches to learning GAMs, dis
 
 ## Related Non-Neural GAMs
 
+> GAM 모델 자체에 대해 더 알고 싶다면 **[Awesome Generalized Additive Models](https://github.com/suanlab/Awesome-Generalized-Additive-Models)** 를 참고하세요.
+
 These are frequently compared to NAMs in the literature:
 
 - **Explainable Boosting Machine (EBM)** — Lou, Caruana, Gehrke, Hooker; Nori et al. — Tree-based cyclic gradient boosting GAM with automatic interaction detection. The primary non-neural baseline. [[paper (GA²M)]](https://www.cs.cornell.edu/~yinlou/papers/lou-kdd13.pdf) [[code]](https://github.com/interpretml/interpret)
