@@ -356,7 +356,7 @@ These are frequently compared to NAMs in the literature:
 
 ## Contributing
 
-Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first. If you find a paper or implementation missing from this list, please open a pull request.
+Contributions welcome! If you find a paper or implementation missing from this list, please open a pull request.
 
 ---
 
