@@ -346,7 +346,7 @@ These papers propose alternative neural network approaches to learning GAMs, dis
 
 ## Related Non-Neural GAMs
 
-> GAM 모델 자체에 대해 더 알고 싶다면 **[Awesome Generalized Additive Models](https://github.com/suanlab/Awesome-Generalized-Additive-Models)** 를 참고하세요.
+> If you're interested in GAMs themselves, check out **[Awesome Generalized Additive Models](https://github.com/suanlab/Awesome-Generalized-Additive-Models)**.
 
 These are frequently compared to NAMs in the literature:
 
